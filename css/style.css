@@ -1,0 +1,56 @@
+
+.navbar-brand img
+{
+    width: 100px;
+}
+
+#botonverde
+{
+    color: #25a342;
+}
+
+.carousel-item
+{
+    opacity: .8;
+}
+
+#container
+{
+
+    margin: auto;
+}
+
+#honolulu
+{
+    background-color: #353a40;
+    color: white;
+    width: 500px;
+    margin-left: 1px;
+    padding: 10px;
+}
+
+#botonEnviar
+{
+    background-color: #96c93e;
+    color: white;
+}
+
+#r
+{
+ color: gray;
+}
+
+u {    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+}
+
+.navbar-expand-lg
+{
+    padding:15px 15px 15px 50px;
+    text-align: center;
+    
+}
+
+
+
